@@ -8,7 +8,7 @@
 
 <br />
 
-- 🔭 I’m currently working on MERN stack
+- 🔭 I’m a Fullstack Developer
 - 💬 Ask me about Javascript.
 
 <br/>
@@ -16,8 +16,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-DOTNET-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br/>
 
 📈 My GitHub Stats
