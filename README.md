@@ -8,7 +8,6 @@
 ## About Me 😇
 
 - 💁🏻‍♀️ Pronouns: She/Her
-- 💻 I’m currently building [DhiWise](https://dhiwise.com).
 - 👩🏻‍💻 I’m currently learning more about AWS, Cloud, and Serverless.
 - ✍🏼 I casually write blogs on [Medium](https://medium.com/@salonii13)
 - 🤗 I’m looking for collaborations on Technical writing and/or Copywriting
