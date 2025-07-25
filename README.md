@@ -8,9 +8,8 @@
 ## About Me 😇
 
 - 💁🏻‍♀️ Pronouns: She/Her
-- 👩🏻‍💻 I’m currently learning more about AWS, Cloud, and Serverless.
+- A Fullstack Developer (MERN) currently specialising in Next.JS and AI to build next-gen AI tools that helps people in their day-to-day life.
 - ✍🏼 I casually write blogs on [Medium](https://medium.com/@salonii13)
-- 🤗 I’m looking for collaborations on Technical writing and/or Copywriting
 - 💬 Ask me about Javascript or any tech-related stuff.
 
 ## Socials 🌍
