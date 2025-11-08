@@ -43,12 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saloni137&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saloni137&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni137&theme=vue" />
-</p>
-
 ## Random Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
