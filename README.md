@@ -2,8 +2,6 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I am Saloni Saraiya </h1>
-         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni137&label=Views&color=blue&style=plastic&style=for-the-badge" alt="saloni137" /> </p>
 
 ## About Me 😇
 
