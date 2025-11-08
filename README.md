@@ -37,9 +37,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 💳 GitHub Profile Summary Card
-<p align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saloni137&theme=vue"/>
-</p>
+
 
 ## Random Quotes
 
