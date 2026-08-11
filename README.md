@@ -39,8 +39,3 @@
 ## 💳 GitHub Profile Summary Card
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saloni137&theme=vue"/>
-
-
-## Random Quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
